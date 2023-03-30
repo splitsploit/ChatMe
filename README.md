@@ -14,8 +14,9 @@ ChatMe adalah aplikasi Realtime Chat berbasis web yang dilengkapi dengan sistem 
 - composer update
 - set Pusher Environment ( bikin channel baru di pusher.com )
 - set routing dan Environment Chatify
-### Add This To .env File
 - php artisan migrate:fresh
+
+### Add This To .env File
 
 ```bash
   CHATIFY_NAME=ChatMe
