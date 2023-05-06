@@ -7,6 +7,7 @@ ChatMe adalah aplikasi Realtime Chat berbasis web yang dilengkapi dengan sistem 
 - Laravel Breeze
 - Pusher Environment
 - Chatify Library
+- Bootstrap 5 Latest
 
 ### Instruction?
 - clone splitsploit/ChatMe repository
