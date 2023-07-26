@@ -10,6 +10,8 @@
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900">
                     {{ __("You're logged in!") }}
+                    <p class="mt-5">Lets start talk and chat with everyone who online in here!. Click link below</p>
+                    <a href="{{ route('chatme') }}" class="btn btn-primary">Start Chat</a>
                 </div>
             </div>
         </div>
